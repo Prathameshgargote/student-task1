@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-image: url(https://tse3.mm.bing.net/th?id=OIP.yckFkG7V9rOV3sVRT3W3ywHaEo&pid=Api&P=0&h=180);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-color: #fff;
+}
+h4.text-center{
+    color: aquamarine;
+}
+.card-body{
+    opacity: initial;
+    
+
+}
+
+header.text-white.p-4{
+    margin-bottom: 20px;
+}
+header{
+    background-color: aqua;
+}
+button{
+    box-shadow: 40px;
+
+}
+.bg-or{
+    background-color: rgb(77,139, 145)!important;
+
+
+}
+.card{
+    background-color: rgba(255, 255, 255, 0)!important;
+    border-color: #fff;
+}*{
+    padding: 0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Hd-Laptop-wallpapers.jpg);
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-color: #fff;
+  
+}
+
+h4.text-center{
+    color:rgb(0, 251, 255);
+}
+
+
+
+.card-body{
+    opacity: initial;
+   
+}
+header.text-white.p-4 {
+    margin-bottom: 20px;
+}
+header{
+    background-color: #5ab0c1;
+
+}
+button{
+    box-shadow: 40px;
+}
+.bg-or{
+    background-color: rgb(77, 139, 145) !important;
+}
+.card{
+    background-color: rgba(255,255,255,0) !important;
+    border-color: #fff !important;
+}
